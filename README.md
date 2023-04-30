@@ -1,0 +1,1 @@
+En este repositorio se subiran las actividades correspondientes a los modulos del curso JavaScript Basico de OpenBootcamp
